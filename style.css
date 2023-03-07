@@ -1,0 +1,13 @@
+.descricao-produto, .descricao-servico {
+    margin: 40px;
+    padding: 20px;
+    width: 50%;
+}
+
+.descricao-produto {
+    background-color: #f5f5f5;
+}
+
+.descricao-servico {
+    background-color: #f0cce2;
+}
